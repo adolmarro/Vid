@@ -1,0 +1,50 @@
+{
+  "name": "6",
+  "hrapagado": "23:00:00",
+  "actualizacion": "diario",
+  "Videos": [
+    {
+      "video_url": "http://navegante.com/alitasypiernadepollo.mp4",
+      "hora_inicio":"10:00:00",
+      "hora_fin":"10:00:20",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    }
+  ],
+  "Logos": [
+    {
+      "logo_url":"https://www.logogarden.com/wp-content/uploads/lg-index/Example-Logo-6.jpg",
+      "hora_inicio":"10:00:00",
+      "hora_fin":"10:02:00"
+    }
+  ],
+  "Banner": [
+    {
+      "banner_url":"https://www.cdc.gov/healthywater/swimming/images/btn-dont-leave-your-mark.gif",
+      "hora_inicio":"10:00:00",
+      "hora_fin":"10:02:00"
+    }
+  ],
+  "VideoDefault": [
+    {
+      "video_url": "http://navegante.com/locacionesilusionistas.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://navegante.com/ofertascercailusionistas.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://navegante.com/tarjetasilusionistas.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    }
+  ]
+}
