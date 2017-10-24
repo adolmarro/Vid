@@ -481,6 +481,31 @@
       "logo_url":"http://cdn1-blog.designhill.com/wp-content/uploads/2015/01/Adidas_Logo.png",
       "hora_inicio":"10:29:50",
       "hora_fin":"10:30:25"
+    },
+    {
+      "logo_url":"https://www.48hourslogo.com/Public/images/bg/10.png",
+      "hora_inicio":"10:32:50",
+      "hora_fin":"10:40:25"
+    },
+    {
+      "logo_url":"https://upload.wikimedia.org/wikipedia/commons/3/33/Vanamo_Logo.png",
+      "hora_inicio":"10:41:50",
+      "hora_fin":"10:44:25"
+    },
+    {
+      "logo_url":"http://www.telestream.net/images/home/logo-product-gameshow.png",
+      "hora_inicio":"10:50:50",
+      "hora_fin":"10:53:25"
+    },
+    {
+      "logo_url":"https://www.48hourslogo.com/Public/images/bg/22.png",
+      "hora_inicio":"10:55:50",
+      "hora_fin":"10:59:25"
+    },
+    {
+      "logo_url":"http://www.telestream.net/images/home/logo-product-wirecast.png",
+      "hora_inicio":"11:00:00",
+      "hora_fin":"11:10:25"
     }
   ],
   "Banner": [
