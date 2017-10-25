@@ -4,6 +4,78 @@
   "actualizacion": "diario",
   "Videos": [
     {
+      "video_url": "http://navegante.com/JCSAKURA.mp4",
+      "hora_inicio":"09:57:26",
+      "hora_fin":"09:57:40",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:19"
+    },
+    {
+      "video_url": "http://navegante.com/InmueblesVideo.mp4",
+      "hora_inicio":"09:57:45",
+      "hora_fin":"09:58:00",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    },
+    {
+      "video_url": "http://navegante.com/TrueMusiccorto.mp4",
+      "hora_inicio":"09:58:05",
+      "hora_fin":"09:58:15",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:15"
+    },
+    {
+      "video_url": "http://navegante.com/tortasalex.mp4",
+      "hora_inicio":"09:58:20",
+      "hora_fin":"09:58:36",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    },
+    {
+      "video_url": "http://navegante.com/srsmith.mp4",
+      "hora_inicio":"09:58:40",
+      "hora_fin":"09:58:57",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    },
+    {
+      "video_url": "http://navegante.com/ramsnavidad.mp4",
+      "hora_inicio":"09:59:00",
+      "hora_fin":"09:59:18",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    },
+    {
+      "video_url": "http://navegante.com/jumbopizzaconsonido.mov",
+      "hora_inicio":"09:59:20",
+      "hora_fin":"09:59:39",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    },
+    {
+      "video_url": "http://navegante.com/McPepenuevo.mp4",
+      "hora_inicio":"09:59:40",
+      "hora_fin":"10:00:00",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:00:20"
+    },
+    {
       "video_url": "http://navegante.com/alitasypiernadepollo.mp4",
       "hora_inicio":"10:00:00",
       "hora_fin":"10:00:20",
