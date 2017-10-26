@@ -416,6 +416,33 @@
       "logo":true,
       "categoria":"dispositivo",
       "duracion":"00:04:00"
+    },
+    {
+      "video_url": "http://navegante.com/BigBuckBunny_320x180.mp4",
+      "hora_inicio":"11:09:05",
+      "hora_fin":"11:19:00",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:09:55"
+    },
+    {
+      "video_url": "http://navegante.com/CC_1916_07_10_TheVagabond.mp4",
+      "hora_inicio":"11:19:00",
+      "hora_fin":"11:43:45",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:24:45"
+    },
+    {
+      "video_url": "http://navegante.com/CC_1916_07_10_TheVagabond.mp4",
+      "hora_inicio":"11:43:45",
+      "hora_fin":"12:38:45",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"00:55:00"
     }
   ],
   "Logos": [
