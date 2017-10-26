@@ -443,6 +443,15 @@
       "logo":true,
       "categoria":"dispositivo",
       "duracion":"00:55:00"
+    },
+    {
+      "video_url": "http://navegante.com/VoodooMan_512kb.mp4",
+      "hora_inicio":"12:38:45",
+      "hora_fin":"12:38:45",
+      "banner":true,
+      "logo":true,
+      "categoria":"dispositivo",
+      "duracion":"01:01:40"
     }
   ],
   "Logos": [
