@@ -1,0 +1,40 @@
+{
+  "name": "10",
+  "hrapagado": "23:00:00",
+  "actualizacion": "diario",
+  "Videos": [
+
+  ],
+  "Logos": [
+
+  ],
+  "Banner": [
+
+  ],
+  "VideoDefault": [
+    {
+      "video_url": "http://navegante.com/locacionesilusionistas.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://navegante.com/ofertascercailusionistas.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://navegante.com/tarjetasilusionistas.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://navegante.com/NavegantePromoMusicaNormal.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    }
+  ]
+}
