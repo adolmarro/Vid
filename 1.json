@@ -502,19 +502,43 @@
   ],
   "VideoDefault": [
     {
-      "video_url": "http://navegante.com/locacionesilusionistas.mp4",
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/jellyfish-25-mbps-hd-hevc.mp4",
       "banner":true,
       "logo":true,
       "categoria":"zona"
     },
     {
-      "video_url": "http://navegante.com/ofertascercailusionistas.mp4",
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/grb_2.mp4",
       "banner":true,
       "logo":true,
       "categoria":"zona"
     },
     {
-      "video_url": "http://navegante.com/tarjetasilusionistas.mp4",
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/lion-sample.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/star_trails.mp4",
+      "banner":true,
+      "logo":true,
+      "categoria":"zona"
+    },
+    {
+      "video_url": "http://mirrors.standaloneinstaller.com/video-sample/DLP_PART_2_768k.mp4",
       "banner":true,
       "logo":true,
       "categoria":"zona"
