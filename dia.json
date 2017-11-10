@@ -27,21 +27,21 @@
       "hora_fin":"10:02:00"
     }
   ],
-  "VideoDefault": [
+  "videoDefault": [
     {
-      "video_url": "http://navegante.com/locacionesilusionistas.mp4",
+      "url": "http://navegante.com/locacionesilusionistas.mp4",
       "banner":true,
       "logo":true,
       "categoria":"zona"
     },
     {
-      "video_url": "http://navegante.com/ofertascercailusionistas.mp4",
+      "url": "http://navegante.com/ofertascercailusionistas.mp4",
       "banner":true,
       "logo":true,
       "categoria":"zona"
     },
     {
-      "video_url": "http://navegante.com/tarjetasilusionistas.mp4",
+      "url": "http://navegante.com/tarjetasilusionistas.mp4",
       "banner":true,
       "logo":true,
       "categoria":"zona"
