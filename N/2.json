@@ -3,7 +3,7 @@
         "name": 2,
         "hora_apagado": "20:00:00.0000000",
         "actualizacion": "Diario",
-        "videos": [
+        "videos_hora": [
             {
                 "id": 7,
                 "dia": 3,
@@ -587,6 +587,13 @@
                 "categoria": "Grupo"
             }
         ],
-        "banner": []
+        "banner": [],
+        "videos": [],
+	    "videos_default": [
+            {
+            "url": "https://html5demos.com/assets/dizzy.mp4",
+            "duracion": "00:00:20"
+            }
+        ]
     }
 ]
