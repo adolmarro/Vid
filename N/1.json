@@ -3,7 +3,16 @@
 	"hora_apagado": "20:00:00.0000000",
 	"actualizacion": "Diario",
 	"videos_hora": [
-
+	{
+                "id": 13,
+                "dia": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
+                "hora_inicio": "14:50:15.0000000",
+                "duracion": "00:00:20",
+                "banner": true,
+                "logo": true,
+                "categoria": "Grupo"
+            }
 	],
 	"videos": [{
 			"id": 4,
