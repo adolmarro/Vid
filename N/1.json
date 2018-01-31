@@ -1,63 +1,96 @@
-[
-    {
-        "name": 2,
-        "hora_apagado": "20:00:00.0000000",
-        "actualizacion": "Diario",
-        "videos_hora": [
-            
-        ],
-        "videos": [
-            {
-                "id": 4,
-                "dia": 2,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
-                "reproducciones": "12",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 4,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "reproducciones": "2",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 2,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
-                "reproducciones": "10",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            }
-        ],
-        "logos": [
-            
-        ],
-        "banner": [
-            {
-                "id": 1,
-                "dia": 2,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/banner/carone_universidad.gif",
-                "hora_inicio": "10:00:00.0000000",
-                "duracion": "00:00:05",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            }
-        ],
-        "videos_default": [
-            {
-                "url": "https://html5demos.com/assets/dizzy.mp4",
-                "duracion": "00:00:20"
-            }
-        ]
-    }
-]
+[{
+	"name": 2,
+	"hora_apagado": "20:00:00.0000000",
+	"actualizacion": "Diario",
+	"videos_hora": [
+
+	],
+	"videos": [{
+			"id": 4,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "12",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "2",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "10",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "10",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "10",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "10",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "10",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		}
+	],
+	"logos": [
+
+	],
+	"banner": [{
+		"id": 1,
+		"dia": 2,
+		"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/banner/carone_universidad.gif",
+		"hora_inicio": "10:00:00.0000000",
+		"duracion": "00:00:05",
+		"banner": false,
+		"logo": false,
+		"categoria": "Grupo"
+	}],
+	"videos_default": [{
+		"url": "https://html5demos.com/assets/dizzy.mp4",
+		"duracion": "00:00:20"
+	}]
+}]
