@@ -1,113 +1,42 @@
-[
-    {
-        "name": 2,
-        "hora_apagado": "20:00:00.0000000",
-        "actualizacion": "Diario",
-        "videos_hora": [
-            {
-                "id": 7,
+[{
+	"name": 2,
+	"hora_apagado": "21:00:00.0000000",
+	"actualizacion": "semanalmente",
+	"videos_hora": [
+	   {
+                "id": 14,
                 "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "09:00:05.0000000",
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:00:00.0000000",
+                "duracion": "00:00:20",
+                "banner": true,
+                "logo": true,
+                "categoria": "Grupo"
+            },
+		{
+                "id": 14,
+                "dia": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:12:00.0000000",
                 "duracion": "00:00:20",
                 "banner": false,
                 "logo": false,
                 "categoria": "Grupo"
             },
             {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "10:30:05.0000000",
+                "id": 14,
+                "dia": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:16:05.0000000",
                 "duracion": "00:00:20",
                 "banner": false,
                 "logo": false,
                 "categoria": "Grupo"
             },
             {
-                "id": 7,
+                "id": 14,
                 "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "11:00:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "12:30:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "13:45:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "14:00:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "15:30:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "16:00:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 7,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
-                "hora_inicio": "17:30:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 8,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
-                "hora_inicio": "12:00:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 8,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
                 "hora_inicio": "12:25:05.0000000",
                 "duracion": "00:00:20",
                 "banner": false,
@@ -115,450 +44,60 @@
                 "categoria": "Grupo"
             },
             {
-                "id": 8,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
-                "hora_inicio": "13:25:05.0000000",
+                "id": 14,
+                "dia": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:36:05.0000000",
                 "duracion": "00:00:20",
                 "banner": false,
                 "logo": false,
                 "categoria": "Grupo"
             },
             {
-                "id": 8,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
-                "hora_inicio": "14:00:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 8,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
-                "hora_inicio": "15:30:05.0000000",
-                "duracion": "00:00:20",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "12:00:25.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "12:01:20.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "12:02:20.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "12:04:20.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "12:10:20.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "12:30:00.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "13:00:00.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "13:05:20.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 9,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
-                "hora_inicio": "13:10:20.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+                "id": 14,
+                "dia": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
                 "hora_inicio": "12:40:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "12:30:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "12:20:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "12:35:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "13:40:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "13:00:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "13:10:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "13:20:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 10,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
-                "hora_inicio": "13:30:05.0000000",
-                "duracion": "00:01:05",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "12:20:05.0000000",
                 "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "12:30:05.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "13:25:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "12:35:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "12:25:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "12:45:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "13:55:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 11,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
-                "hora_inicio": "12:55:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 12,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
-                "hora_inicio": "12:20:05.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 12,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
-                "hora_inicio": "12:30:05.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 12,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
-                "hora_inicio": "13:25:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 12,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
-                "hora_inicio": "12:35:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 12,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
-                "hora_inicio": "12:25:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 12,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
-                "hora_inicio": "12:45:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "13:27:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "12:27:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "12:47:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "12:57:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "12:37:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "13:27:45.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "13:37:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "13:47:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
-                "categoria": "Grupo"
-            },
-            {
-                "id": 13,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/saint du val_vf_alta.mp4",
-                "hora_inicio": "13:00:15.0000000",
-                "duracion": "00:00:20",
-                "banner": true,
-                "logo": true,
+                "banner": false,
+                "logo": false,
                 "categoria": "Grupo"
             },
             {
                 "id": 14,
-                "dia": 3,
+                "dia": 6,
                 "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
-                "hora_inicio": "15:30:05.0000000",
+                "hora_inicio": "12:43:05.0000000",
+                "duracion": "00:00:20",
+                "banner": false,
+                "logo": false,
+                "categoria": "Grupo"
+            },
+            {
+                "id": 14,
+                "dia": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:48:05.0000000",
+                "duracion": "00:00:20",
+                "banner": false,
+                "logo": false,
+                "categoria": "Grupo"
+            },
+            {
+                "id": 14,
+                "dia": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:51:05.0000000",
+                "duracion": "00:00:20",
+                "banner": false,
+                "logo": false,
+                "categoria": "Grupo"
+            },
+            {
+                "id": 14,
+                "dia": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
+                "hora_inicio": "12:53:05.0000000",
                 "duracion": "00:00:20",
                 "banner": false,
                 "logo": false,
@@ -568,32 +107,528 @@
                 "id": 14,
                 "dia": 3,
                 "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/truemusiccorto.mp4",
-                "hora_inicio": "12:43:00.0000000",
+                "hora_inicio": "12:59:05.0000000",
                 "duracion": "00:00:20",
                 "banner": false,
                 "logo": false,
                 "categoria": "Grupo"
             }
-        ],
-        "logos": [
-            {
-                "id": 2,
-                "dia": 3,
-                "url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/logo/carone.png",
-                "hora_inicio": "09:00:00.0000000",
-                "duracion": "00:01:30",
-                "banner": false,
-                "logo": false,
-                "categoria": "Grupo"
-            }
-        ],
-        "banner": [],
-        "videos": [],
-	    "videos_default": [
-            {
-            "url": "https://html5demos.com/assets/dizzy.mp4",
-            "duracion": "00:00:20"
-            }
-        ]
-    }
-]
+	],
+	"videos": [
+        {
+			"id": 4,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 1,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+        
+        {
+			"id": 4,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 2,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+        
+        {
+			"id": 4,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 3,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+        
+        
+        {
+			"id": 4,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 4,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+        
+        {
+			"id": 4,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 5,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+        
+        {
+			"id": 4,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 6,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+        
+        
+        {
+			"id": 4,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/carone_universidad.mp4",
+			"reproducciones": "150",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 7,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/inmueblesvideo.mp4",
+			"reproducciones": "55",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 8,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/jcsakura.mp4",
+			"reproducciones": "160",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 9,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/mcpepenuevo.mp4",
+			"reproducciones": "200",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/nelly jurado_vf.mp4",
+			"reproducciones": "180",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/navegantepromo musicanormal.mp4",
+			"reproducciones": "220",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		},
+		{
+			"id": 10,
+			"dia": 7,
+			"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/video/ramsnavidad.mp4",
+			"reproducciones": "20",
+			"duracion": "00:00:20",
+			"banner": false,
+			"logo": false,
+			"categoria": "Grupo"
+		}
+	],
+	"logos": [
+
+	],
+	"banner": [{
+		"id": 1,
+		"dia": 2,
+		"url": "https://s3-us-west-2.amazonaws.com/navegante/sections/78c32a09-16a4-4f5f-967b-74253b09545b/banner/carone_universidad.gif",
+		"hora_inicio": "10:00:00.0000000",
+		"duracion": "00:00:05",
+		"banner": false,
+		"logo": false,
+		"categoria": "Grupo"
+	}],
+	"videos_default": [{
+		"url": "https://html5demos.com/assets/dizzy.mp4",
+		"duracion": "00:00:20"
+	}]
+}]
